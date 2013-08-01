@@ -1,0 +1,1 @@
+"return function()\n  -- code\n  end"
